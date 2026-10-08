@@ -1,0 +1,6 @@
+{
+  "name": "Design World — Explore New Ideas",
+  "description": "Design World landing hero with a rotatable 3D glass cuboid refracting a headline with chromatic dispersion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
